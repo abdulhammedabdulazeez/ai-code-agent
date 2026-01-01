@@ -1,6 +1,6 @@
 # ai-code-agent
 
-Lightweight AI coding assistant that can inspect and modify a project workspace by calling a small set of safe file-system functions. The agent uses Google GenAI (Gemini) to decide actions, then performs those actions via a guarded set of functions.
+Lightweight AI coding assistant that can inspect and modify a project workspace by calling a small set of safe file-system functions. The agent uses Google GenAI (Gemini) to decide actions and then performs those actions via a guarded set of functions.
 
 ## Features
 - List directory contents (get_files_info)
