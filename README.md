@@ -1,4 +1,4 @@
-# ai-code-agent
+# ai-code-agent project
 
 Lightweight AI coding assistant that can inspect and modify a project workspace by calling a small set of safe file-system functions. The agent uses Google GenAI (Gemini) to decide actions and then performs those actions via a guarded set of functions.
 
