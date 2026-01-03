@@ -9,7 +9,7 @@ Lightweight AI coding assistant that can inspect and modify a project workspace 
 - Write files and automatically create parent directories (write_file)
 - Conversation loop that runs function calls until the model returns a final response
 
-## How it works (high level)
+## How it works - (high level)
 1. Your prompt is sent to the model along with a system prompt that constrains behavior.
 2. The model returns either:
    - A final textual response, or
