@@ -24,7 +24,7 @@ All filesystem operations are resolved relative to a provided `working_directory
 - Google GenAI client (Gemini) and other dependencies listed in `requirements.txt`
 - A Gemini API key (set as `GEMINI_API_KEY`)
 
-## Quick start (macOS / VS Code terminal)
+## Quick start - (macOS / VS Code terminal)
 ```bash
 # create & activate virtualenv
 python -m venv .venv
